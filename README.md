@@ -60,8 +60,5 @@ Hey there! I'm Mikeal Fowler, a passionate Full-Stack Developer who enjoys tackl
 - **Email:** mikeyfowler36@gmail.com
 - **LinkedIn:** [Mikeal Fowler](https://www.linkedin.com/in/mikeal-fowler-3102a7304/)
 
-## ⚡ Fun Fact
-- I love traveling and experiencing different cultures, exploring what each country has to offer!
-
 ---
 💡 *Always learning, always building—let’s create something amazing together!*
