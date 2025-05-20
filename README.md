@@ -9,10 +9,10 @@ Hey there! I'm Mikeal Fowler, a passionate Full-Stack Developer who enjoys tackl
 - Software Architecture & Scalability
 - Experimenting with new technologies and best practices
 
-## 🌱 Currently Learning
-- Prisma (Optimizing database structures and queries)
-- Improving data management techniques for my mini Facebook project
-- Enhancing backend efficiency and performance
+## 🌱 What I’m Up To
+- Refining my skills with Prisma for clean, scalable databases
+- Upping performance and maintainability on my latest projects (OftenDone, custom workout app, more)
+- Always iterating on better backend patterns and deployment pipelines
 
 ## 🛠 Tech Stack
 <p align="left">
